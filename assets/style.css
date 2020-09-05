@@ -1,0 +1,12 @@
+.redBox{
+    background-color:red;
+    width: 500px ;
+    height: 500px ;
+}
+.redBox:hover {
+    background-color:blue;
+}
+
+.redBox:active{
+    background-color:green;
+ }
